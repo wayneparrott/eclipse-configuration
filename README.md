@@ -15,4 +15,4 @@ When setting up a new Eclipse instance do the following:
 
 
 ## Screenshot
-![](https://www.screencast.com/t/s4Nidz0i "Eclipse using DevStyle & CodeMix")
+![](https://content.screencast.com/users/wparrott/folders/Snagit/media/a577ff03-ef9f-4f37-bf66-7a489eb2cc05/2018-04-23_13-13-03.png) 
