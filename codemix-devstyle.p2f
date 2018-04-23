@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='2'>
+    <iu id='com.genuitec.eclipse.code.feature.feature.group' name='CodeMix for Eclipse' version='0.9.0.201804210117'>
+      <repositories size='2'>
+        <repository location='https://www.genuitec.com/updates/codemix/ci/'/>
+        <repository location='http://www.genuitec.com/updates/codemix/ci/'/>
+      </repositories>
+    </iu>
+    <iu id='com.genuitec.eclipse.theming.feature.feature.group' name='DevStyle (includes Darkest Dark Theme)' version='1.11.0.201804182016'>
+      <repositories size='2'>
+        <repository location='http://www.genuitec.com/updates/webclipse/oxygen/'/>
+        <repository location='http://downloads.genuitec.com/downloads/products/webclipse/updates/wc2017ci11b2'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
