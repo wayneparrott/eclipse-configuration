@@ -33,7 +33,9 @@ When setting up a new Eclipse instance do the following:
 
 ## New Workspace Configuration
 When starting a new workspace do the following: 
-1. Import codemix-essentials-prefs.eps - setup the syntax coloring theme & editors associated with the CodeMix editor   
+1. Import colors and perspective (window layout) file: codemix-essentials-prefs.eps - setup the syntax coloring theme & editors associated with the CodeMix editor   
+   File menu > Import > General > Preferences > "codemix-essentials-prefs.eps"
+   
 2. Configure workbench layout, choose   
    Window menu > Perspective > Customize > Other > "CodeMix-Custom"
 
