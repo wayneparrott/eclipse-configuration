@@ -31,6 +31,5 @@ When starting a new workspace do the following:
 2. Configure workbench layout, choose 
    Window menu > Perspective > Customize > Other > "CodeMix-Custom"
 
-## Screenshot
-![](https://content.screencast.com/users/wparrott/folders/Snagit/media/a577ff03-ef9f-4f37-bf66-7a489eb2cc05/2018-04-23_13-13-03.png) 
-![](https://https://github.com/wayneparrott/eclipse-configuration/docs/codemix-perspective.png) 
+## Screenshot 
+![](https://raw.githubusercontent.com/wayneparrott/eclipse-configuration/master/docs/codemix-perspective.png) 
