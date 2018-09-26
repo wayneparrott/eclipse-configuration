@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='6'>
+    <iu id='com.genuitec.eclipse.code.feature.feature.group' name='CodeMix Essentials' version='2.0.0.201809241611'>
+      <repositories size='1'>
+        <repository location='https://www.genuitec.com/updates/codemix/ci/'/>
+      </repositories>
+    </iu>
+    <iu id='com.genuitec.eclipse.code.extended.feature.feature.group' name='CodeMix Extended Suite' version='2.0.0.201809241611'>
+      <repositories size='1'>
+        <repository location='https://www.genuitec.com/updates/codemix/ci/'/>
+      </repositories>
+    </iu>
+    <iu id='com.genuitec.eclipse.theming.feature.feature.group' name='DevStyle (includes Darkest Dark Theme)' version='1.11.0.201809241613'>
+      <repositories size='2'>
+        <repository location='http://www.genuitec.com/updates/webclipse/oxygen/'/>
+        <repository location='http://www.genuitec.com/updates/devstyle/ci/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.github.feature.feature.group' name='Eclipse GitHub integration with task focused interface' version='5.1.0.201809111528-r'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/2018-09'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.egit.feature.group' name='Git integration for Eclipse' version='5.1.0.201809111528-r'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/2018-09'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.epp.mpc.feature.group' name='Marketplace Client' version='1.7.2.v20180829-1931'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/2018-09'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
