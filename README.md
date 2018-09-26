@@ -26,8 +26,8 @@ When setting up a new Eclipse instance do the following:
 3. Configure workbench layout, choose   
    Window menu > Perspective > Customize > Other > "CodeMix-Custom"
 
-4. Optional - install ShowInExplorer plugin   
-   Copy & paste com.genuitec.devstyle.showinsystemexplorer_xxx.jar into your Eclipse dropins foloder
+4. Optional - install ShowInSystemExplorer plugin   
+   Copy dropins/com.genuitec.devstyle.showinsystemexplorer_xxx.jar into your Eclipse dropins foloder
 
 5. Restart Eclipse 
 
@@ -35,7 +35,7 @@ When setting up a new Eclipse instance do the following:
 When starting a new workspace do the following: 
 1. Import colors and perspective (window layout) file: codemix-essentials-prefs.eps - setup the syntax coloring theme & editors associated with the CodeMix editor   
    File menu > Import > General > Preferences > "codemix-essentials-prefs.eps"
-   
+
 2. Configure workbench layout, choose   
    Window menu > Perspective > Customize > Other > "CodeMix-Custom"
 
